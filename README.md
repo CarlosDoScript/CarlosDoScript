@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Carlos Henrique👋</h1>
 
 <p align="center">
-Desenvolvedor .NET | C# | ASP.NET Core | Azure Cloud | RabbitMQ | Microsserviços |
+Desenvolvedor .NET | C# | ASP.NET Core | SQL | Azure Cloud | RabbitMQ | Microsserviços
 </p>
 
 ---
